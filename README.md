@@ -25,7 +25,6 @@ Welcome to the repository for **Little Lemon**, a modern website for a Mediterra
 ## Features
 
 - **Responsive Design**: Adapts seamlessly to mobile, tablet, and desktop devices.
-- **Menu Display**: Showcases the restaurant’s menu items, including descriptions and prices. **Coming Soon**
 - **Booking Form**: Allows users to make reservations online.
 - **About Us Section**: Highlights the restaurant’s history and values.
 - **Contact Section**: Provides a contact form and contact information for easy access.
